@@ -6,7 +6,6 @@
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=nathalywave&color=ff69b4)
 
 ---
 
