@@ -6,6 +6,8 @@
 
 </div>
 
+![](https://komarev.com/ghpvc/?username=nathalywave&color=ff69b4)
+
 ---
 
 ## 🌸 About Me
@@ -57,7 +59,6 @@
 </a>
 
 </div>
-
 ---
 
 <div align="center">
